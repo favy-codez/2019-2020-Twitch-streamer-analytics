@@ -48,7 +48,7 @@ Twitch is a dominant force in the live-streaming and gaming entertainment indust
 
 ## 📂 Dataset
 
-- 📥 **[The data used for this analysis was sourced from Kaggle and can be found here:](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)**  
+- 📥 **The data used for this analysis was sourced from Kaggle and can be found [here:](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)**  
   This dataset includes information about Twitch streamers such as:
   - Channel name
   - Number of followers
